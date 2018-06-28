@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import subprocess
 subprocess.check_output('mkdir ./testDir', shell=True)
 subprocess.check_output('cd ./testDir', shell=True)

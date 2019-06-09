@@ -1,0 +1,22 @@
+
+@media only screen and (min-width: 1600px) {
+    body {
+        font-size: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 1599px) {
+    body {
+        font-size: 80%;
+
+
+          }
+
+     .vid{	
+	width: 25%;
+}
+}
+
+
+
